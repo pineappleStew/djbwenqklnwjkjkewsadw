@@ -1,0 +1,6 @@
+# ファイル構成
+
+- `index.js` - 企業比較を行うコード
+- `filtered_edinet_documents.json` - EDINETから取得した有価証券報告書詳細情報の一覧
+- `EDINET.js` - EDINET関連の処理を行うコード
+- `package.json` - 利用パッケージ一覧
